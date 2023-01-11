@@ -19,10 +19,9 @@ function hello(){
 
 // let and const => 5
 
-// closures => 30 mins
-
 // try catch => 15 mins
 
+// no name function
 
 
 
@@ -31,3 +30,11 @@ function hello(){
 
 
 
+
+// function app(){
+//     console.log("hello")
+// }
+
+// let app = function(){
+//     console.log("hello")
+// }
